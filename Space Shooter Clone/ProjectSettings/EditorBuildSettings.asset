@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuUI.unity
+    guid: 804a79ae9e2888649a08f079171a971e
+  - enabled: 1
+    path: Assets/Scenes/ChoosingVehicles.unity
+    guid: 5ae85deb0fce2524183a5305a987d5e7
+  - enabled: 1
+    path: Assets/Scenes/SettingsUI.unity
+    guid: 0dcf1f48f965deb4db8bdae3c0155747
+  - enabled: 1
+    path: Assets/Scenes/HotKeys.unity
+    guid: 7a9765acf81ab42478f70fdfbb48c524
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/INBetweenLVL1_LVL2.unity
+    guid: cfdbd89147dae88428ecd20b173f2445
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: 25b9a6088a7d9c441b6d7a9246d43e00
+  - enabled: 1
+    path: Assets/Scenes/INBetweenLVL2_LVL3.unity
+    guid: 6024f9792888e4e4abf9302e9730589d
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: 39018c7faab635041ad6baef0ffb0715
+  - enabled: 1
+    path: Assets/Scenes/INBetweenLVL3_LVL4.unity
+    guid: e45d3a92a8888d54cb0b5d9fd331882f
+  m_configObjects: {}
